@@ -69,6 +69,9 @@ pip install -r requirements.txt
 python app.py
 ```
 
+[![HF Spaces](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Raahulthakur/Research_Agent)
+
+
 ## 📬 Contact
 
 Built with ❤️ by [Rahul Thakur](https://huggingface.co/Raahulthakur)
