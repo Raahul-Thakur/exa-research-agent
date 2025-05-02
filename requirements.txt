@@ -1,0 +1,4 @@
+exa-py
+gradio
+python-dotenv
+-e ./phidata
