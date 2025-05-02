@@ -1,3 +1,13 @@
+---
+title: Exa Research Agent
+emoji: 🔍
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+app_file: app.py
+pinned: false
+license: mit
+---
 # 🔎 Exa Research Agent
 
 A lightweight, real-time research assistant powered by [Exa.ai](https://exa.ai) and built using [Phidata](https://github.com/agno-agi/phidata).  
